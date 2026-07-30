@@ -1,13 +1,13 @@
-# A.R.C
-# Artificial Response Core
+# JARVIS
 
-A modular AI operating system inspired by the Marvel Cinematic Universe.
+A modular local AI assistant built in Python.
 
-## Goals
+## Project Goals
 
 - Local AI
-- Voice assistant
-- Computer Vision
+- Voice Assistant
 - Memory System
-- Spider Suit Integration
-- Helmet HUD
+- Vision
+- Smart Suit Integration
+
+Current Version: v0.1
