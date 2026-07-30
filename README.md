@@ -1,4 +1,5 @@
-# J.A.R.V.I.S
+# A.R.C
+# Artificial Response Core
 
 A modular AI operating system inspired by the Marvel Cinematic Universe.
 
