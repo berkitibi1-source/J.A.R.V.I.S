@@ -12,7 +12,8 @@ A modular local AI assistant built in Python.
 
 Current Version: v0.1
 
-Need learn:
+## Need learn:
+
 - Git ❓
 - Python ❓
 - JSON ❌
